@@ -18,6 +18,12 @@
 
 ✅ ./run.sh
 
-𝙃𝙤𝙥𝙚 𝙔𝙤𝙪 𝙇𝙞𝙠𝙚 𝙩𝙝𝙚 𝙏𝙤𝙤𝙡 𝙨𝙤 𝙥𝙡𝙯 𝙨𝙪𝙥𝙥𝙤𝙧𝙩 𝙪𝙨 👇🏼👇🏼
+Now to use this tool you will be automatically redirected to our
+YouTube channel do subscribe and click on Bell icon and come back
+to Termux and you Will be able to use this tool for free
 
-𝙝𝙩𝙩𝙥𝙨://𝙮𝙤𝙪𝙩𝙪𝙗𝙚.𝙘𝙤𝙢/@𝙝𝙖𝙘𝙠𝙚𝙧𝙨_𝙘𝙤𝙡𝙤𝙣𝙮_𝙩𝙚𝙘𝙝?𝙨𝙞=7𝙈𝙗𝙄9𝙨𝙢2𝙥𝙊𝙋𝘾1𝙇𝙋_
+Hope & You Love the tool and for any queries or error join our Hacking
+our Channel 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
+
+𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼
+[https://chat.whatsapp.com/Ha3goS71RamKMeCq2CJLwe](https://chat.whatsapp.com/HB03qdGSK5K17wmQ5FXGiP)
