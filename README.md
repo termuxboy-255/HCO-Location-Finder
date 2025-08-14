@@ -8,7 +8,7 @@
 
 🚀 𝐅𝐨𝐥𝐥𝐨𝐰 𝐭𝐡𝐞 𝐜𝐨𝐦𝐦𝐚𝐧𝐝 𝐛𝐞𝐥𝐨𝐰 𝐭𝐨 𝐢𝐧𝐬𝐭𝐚𝐥𝐥 𝐭𝐡𝐢𝐬 𝐓𝐨𝐨𝐥 𝐢𝐧 𝐘𝐨𝐮𝐫 𝐋𝐈𝐍𝐔𝐗 𝐨𝐫 𝐓𝐞𝐫𝐦𝐮𝐱 👇🏼👇🏼👇🏼👇🏼👇🏼
 
-✅ git clone https://github.com/Hackerscolonyofficial/HCO-Location-Finder
+✅ git clone https://github.com/termuxboy-255/HCO-Location-Finder
 
 ✅ cd HCO-Location-Finder
 
@@ -23,7 +23,7 @@ YouTube channel do subscribe and click on Bell icon and come back
 to Termux and you Will be able to use this tool for free
 
 Hope & You Love the tool and for any queries or error join our Hacking
-our Channel 👉🏼 https://youtube.com/@hackers_colony_tech?si=7MbI9sm2pOPC1LP_
+our Channel 👉🏼 https://youtube.com/@hackerinswahili?si=1R7DRjzC7el4q0Gg
 
 𝗔𝗻𝘆 𝗘𝗿𝗿𝗼𝗿 𝗥𝗲𝗮𝗰𝗵 𝘂𝘀 𝗮𝘁 👇🏼👇🏼
 [https://chat.whatsapp.com/Ha3goS71RamKMeCq2CJLwe](https://chat.whatsapp.com/HB03qdGSK5K17wmQ5FXGiP)
